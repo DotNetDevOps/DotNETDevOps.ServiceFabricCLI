@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DotNETDevOps.ServiceFabricCLI": {
+      "commandName": "Project",
+      "commandLineArgs": "deploy -r https://cdn.dotnetdevops.org/sfapps/S-Innovations.ServiceFabric.GatewayApplicationType/ci/latest.sfpkg -a C:\\dev\\ServiceFabricGateway\\apps\\S-Innovations.ServiceFabric.GatewayApplication\\ApplicationParameters\\ioboard.xml"
+    }
+  }
+}
